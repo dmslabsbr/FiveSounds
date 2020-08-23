@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "tipo": "fazenda",
+    "imagem": "a_fazenda"
+  },
+  {
+    "id": "2",
+    "tipo": "selva",
+    "imagem": "a_selvagens"
+  },
+  {
+    "id": "3",
+    "tipo": "pets",
+    "imagem": "a_pets"
+  },
+  {
+    "id": "4",
+    "tipo": "insetos",
+    "imagem": "a_insetos"
+  },
+  {
+  "id": "5",
+  "tipo": "aves",
+  "imagem": "a_aves"
+}
+ ]

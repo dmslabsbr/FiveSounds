@@ -1,0 +1,4 @@
+include ':5sounds'
+
+//include ':dmslibs'
+//project(':dmslibs').projectDir = new File(settingsDir, '../dmslibs')

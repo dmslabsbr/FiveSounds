@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "tipo": "fazenda",
+    "titulo": "Chicken",
+    "descricao": "It's a farm animal that lays eggs.",
+    "imagem": "b_galinha2",
+    "som": "b_galinha_s.wav"
+  },
+  {
+    "id": "2",
+    "tipo": "fazenda",
+    "titulo": "Cow",
+    "descricao": "It's an farm animal that produces the milk.",
+    "imagem": "a700cow",
+    "som": "cow2.wav"
+  },
+  {
+    "id": "3",
+    "tipo": "aves",
+    "titulo": "Blue Macaw",
+    "descricao": "It is a very beautiful bird!",
+    "imagem": "b_arara_azul",
+    "som": "b_arara_azul_s.wav"
+  },
+    {
+     "id": "4",
+     "tipo": "pets",
+     "titulo": "Cat",
+     "descricao": "It is a very smart puppy.",
+     "imagem": "b_gato",
+     "som": "cat3.wav"
+    },
+    {
+    "id": "5",
+    "tipo": "selva",
+    "titulo": "Monkey",
+    "descricao": "It is a monkey.",
+    "imagem": "b_macaco_prego",
+    "som": "b_macaco_prego_s.wav"
+    },
+   {
+    "id": "6",
+    "tipo": "fazenda",
+    "titulo": "Donkey",
+    "descricao": "It is an farm animal like the Shrek movie!",
+    "imagem": "b_burro",
+    "som": "b_burro_s.wav"
+   },
+  {
+    "id": "7",
+    "tipo": "selva",
+    "titulo": "Lion",
+    "descricao": "He is the king of animals.",
+    "imagem": "b_leao",
+    "som": "b_leao_s.wav"
+  },
+  {
+    "id": "8",
+    "tipo": "selva",
+    "titulo": "Whale",
+    "descricao": "It is one of the largest animals in the world.",
+    "imagem": "b_baleia",
+    "som": "b_baleia_s.mp3"
+  },
+  {
+    "id": "9",
+    "tipo": "aves",
+    "titulo": "Great Kiskadee",
+    "descricao": "It is an interesting Brazilian bird.",
+    "imagem": "b_bemtevi",
+    "som": "b_bemtevi_s.mp3"
+  },
+  {
+    "id": "10",
+    "tipo": "fazenda",
+    "titulo": "Horse",
+    "descricao": "It is the helper of the farm.",
+    "imagem": "b_cavalo",
+    "som": "b_cavalo_s.wav"
+  },
+  {
+    "id": "11",
+    "tipo": "insetos",
+    "titulo": "Cicada",
+    "descricao": "It is an insect singing in the trees.",
+    "imagem": "b_cigarra",
+    "som": "b_cigarra_s.wav"
+  },
+  {
+    "id": "12",
+    "tipo": "insetos",
+    "titulo": "Cricket",
+    "descricao": "It is a noisy insect.",
+    "imagem": "b_grilo",
+    "som": "b_grilo_s.mp3"
+  },
+  {
+    "id": "13",
+    "tipo": "insetos",
+    "titulo": "Mosquito",
+    "descricao": "Caution! It can sting you and transmit diseases.",
+    "imagem": "b_mosquito",
+    "som": "b_mosquito_s.mp3"
+  },
+  {
+    "id": "14",
+    "tipo": "aves",
+    "titulo": "Black Bird",
+    "descricao": "It's a beautiful bird that sings.",
+    "imagem": "b_passaro_preto",
+    "som": "b_passaro_preto_s.mp3"
+  },
+  {
+    "id": "15",
+    "tipo": "fazenda",
+    "titulo": "Turkey",
+    "descricao": "It is an animal that usually eat at Christmas.",
+    "imagem": "b_peru",
+    "som": "b_peru_s.mp3"
+  },
+  {
+    "id": "16",
+    "tipo": "pets",
+    "titulo": "Dog",
+    "descricao": "It's your best friend.",
+    "imagem": "b_cachorro",
+    "som": "bark.wav"
+  },
+  {
+    "id": "17",
+    "tipo": "aves",
+    "titulo": "Owl",
+    "descricao": "It is a night bird eating rats.",
+    "imagem": "b_coruja",
+    "som": "b_coruja.mp3"
+  },
+  {
+    "id": "18",
+    "tipo": "selva",
+    "titulo": "Jaguar",
+    "descricao": "It is the Brazilian panther.",
+    "imagem": "b_onca",
+    "som": "b_onca.mp3"
+  },
+  {
+    "id": "19",
+    "tipo": "selva",
+    "titulo": "Seal",
+    "descricao": "It is a marine mammal.",
+    "imagem": "b_foca",
+    "som": "b_foca.mp3"
+  },
+  {
+    "id": "20",
+    "tipo": "selva",
+    "titulo": "Wolf",
+    "descricao": "É o primo selvagem dos cachorros.",
+    "imagem": "b_lobo",
+    "som": "b_lobo.mp3"
+  }
+ ]

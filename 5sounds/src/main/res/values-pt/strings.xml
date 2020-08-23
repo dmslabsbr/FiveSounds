@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sons dos Animais</string>
+    <string name="lang">pt</string>
+    <string name="imageDesc">Imagem de um animal ou inseto.</string>
+</resources>

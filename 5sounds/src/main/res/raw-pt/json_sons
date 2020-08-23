@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "tipo": "fazenda",
+    "titulo": "Galinha",
+    "descricao": "É um animal da fazenda que bota ovos.",
+    "imagem": "b_galinha2",
+    "som": "b_galinha_s.wav"
+  },
+  {
+    "id": "2",
+    "tipo": "fazenda",
+    "titulo": "Vaca",
+    "descricao": "É um animal da fazenda que produz o leite",
+    "imagem": "a700cow",
+    "som": "cow2.wav"
+  },
+  {
+    "id": "3",
+    "tipo": "aves",
+    "titulo": "Arara Azul",
+    "descricao": "É uma ave muito bonita",
+    "imagem": "b_arara_azul",
+    "som": "b_arara_azul_s.wav"
+  },
+    {
+     "id": "4",
+     "tipo": "pets",
+     "titulo": "Gato",
+     "descricao": "É um animalzinho muito esperto.",
+     "imagem": "b_gato",
+     "som": "cat3.wav"
+    },
+    {
+    "id": "5",
+    "tipo": "selva",
+    "titulo": "Macaco",
+    "descricao": "É um macaco.",
+    "imagem": "b_macaco_prego",
+    "som": "b_macaco_prego_s.wav"
+    },
+   {
+    "id": "6",
+    "tipo": "fazenda",
+    "titulo": "Burro",
+    "descricao": "É um animal igual ao do filme!",
+    "imagem": "b_burro",
+    "som": "b_burro_s.wav"
+   },
+  {
+    "id": "7",
+    "tipo": "selva",
+    "titulo": "Leão",
+    "descricao": "Ele é o rei dos animais.",
+    "imagem": "b_leao",
+    "som": "b_leao_s.wav"
+  },
+  {
+    "id": "8",
+    "tipo": "selva",
+    "titulo": "Baleia",
+    "descricao": "É um dos maiores animais do mundo.",
+    "imagem": "b_baleia",
+    "som": "b_baleia_s.mp3"
+  },
+  {
+    "id": "9",
+    "tipo": "aves",
+    "titulo": "Bem te Vi",
+    "descricao": "É um passarinho interessante.",
+    "imagem": "b_bemtevi",
+    "som": "b_bemtevi_s.mp3"
+  },
+  {
+    "id": "10",
+    "tipo": "fazenda",
+    "titulo": "Cavalo",
+    "descricao": "É o ajudante da fazenda.",
+    "imagem": "b_cavalo",
+    "som": "b_cavalo_s.wav"
+  },
+  {
+    "id": "11",
+    "tipo": "insetos",
+    "titulo": "Cigarra",
+    "descricao": "É um inseto que canta nas árvores.",
+    "imagem": "b_cigarra",
+    "som": "b_cigarra_s.wav"
+  },
+  {
+    "id": "12",
+    "tipo": "insetos",
+    "titulo": "Grilo",
+    "descricao": "É um inseto barulhento.",
+    "imagem": "b_grilo",
+    "som": "b_grilo_s.mp3"
+  },
+  {
+    "id": "13",
+    "tipo": "insetos",
+    "titulo": "Mosquito",
+    "descricao": "Cuidado que ele pode te picar.",
+    "imagem": "b_mosquito",
+    "som": "b_mosquito_s.mp3"
+  },
+  {
+    "id": "14",
+    "tipo": "aves",
+    "titulo": "Passaro Preto",
+    "descricao": "É um passarinho muito bonito que canta.",
+    "imagem": "b_passaro_preto",
+    "som": "b_passaro_preto_s.mp3"
+  },
+  {
+    "id": "15",
+    "tipo": "fazenda",
+    "titulo": "Peru",
+    "descricao": "É um animal que costumamos comer no natal.",
+    "imagem": "b_peru",
+    "som": "b_peru_s.mp3"
+  },
+  {
+    "id": "16",
+    "tipo": "pets",
+    "titulo": "Cachorro",
+    "descricao": "É o seu melhor amigo.",
+    "imagem": "b_cachorro",
+    "som": "bark.wav"
+  },
+  {
+    "id": "17",
+    "tipo": "aves",
+    "titulo": "Coruja",
+    "descricao": "É uma ave noturna que come ratos.",
+    "imagem": "b_coruja",
+    "som": "b_coruja.mp3"
+  },
+  {
+    "id": "18",
+    "tipo": "selva",
+    "titulo": "Onça",
+    "descricao": "É a pantera brasileira.",
+    "imagem": "b_onca",
+    "som": "b_onca.mp3"
+  },
+  {
+    "id": "19",
+    "tipo": "selva",
+    "titulo": "Foca",
+    "descricao": "É um mamifero marinho.",
+    "imagem": "b_foca",
+    "som": "b_foca.mp3"
+  },
+  {
+    "id": "20",
+    "tipo": "selva",
+    "titulo": "Lobo",
+    "descricao": "É o primo selvagem dos cachorros.",
+    "imagem": "b_lobo",
+    "som": "b_lobo.mp3"
+  }
+ ]

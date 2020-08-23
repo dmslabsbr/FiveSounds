@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="100dp"
+android:padding="6dip" >
+
+<ImageView
+    android:id="@+id/listImage"
+    android:layout_width="fill_parent"
+    android:layout_height="100dp"
+    android:cropToPadding="false"
+    android:soundEffectsEnabled="true"
+    android:scaleType="fitXY"
+    android:src="@drawable/farm_animals" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/tvMainTipo"
+        android:visibility="gone" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="tvId"
+        android:id="@+id/tvMainId"
+        android:visibility="gone" />
+</RelativeLayout>
