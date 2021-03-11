@@ -2,4 +2,4 @@
 My little android app
 
 
-Use just for learn.
+Use just to learn.
